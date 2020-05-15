@@ -1,14 +1,15 @@
 import { useEffect, useCallback } from "preact/hooks";
 import { html } from "htm/preact";
+import { Layout } from "../components/Layout.ts";
 
 export default () => {
   useEffect(() => {
     console.log("mounted");
   }, []);
   return html`
-    <div>
+    <${Layout}>
       <${Foo} />
-    </div>
+    <//>
   `;
 };
 
