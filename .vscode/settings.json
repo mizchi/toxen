@@ -1,0 +1,4 @@
+{
+  "deno.enabled": true,
+  "deno.importmap": "./web-modules/import-map.json"
+}
