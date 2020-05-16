@@ -33,6 +33,7 @@ Not yet
 
 ## TODO
 
+- [ ] Nested path like `/foo/bar`
 - [ ] Support `_app.ts`
 - [ ] Dynamic routing like `pages/[id].ts`
 - [ ] Head
