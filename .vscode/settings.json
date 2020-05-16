@@ -1,4 +1,12 @@
 {
+  // axetroy
+  // "deno.enable": true,
+  // "deno.import_map": "../web-modules/import-map.json",
+  // "deno.unstable": true,
+
+  // jv
+  "deno.enable": true,
   "deno.enabled": true,
-  "deno.importmap": "./web-modules/import-map.json"
+  "deno.importmap": "./web-modules/import-map.json",
+  "deno.import_map": "./web-modules/import-map.json"
 }

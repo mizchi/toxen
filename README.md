@@ -33,10 +33,11 @@ Not yet
 
 ## TODO
 
-- [ ] `_app.ts`
-- [ ] Dynamic routing
+- [ ] Support `_app.ts`
+- [ ] Dynamic routing like `pages/[id].ts`
+- [ ] Head
 - [ ] `toxen out`
-- [ ] Extract as lib
+- [ ] Extract runner as mod
 
 ## LICENSE
 
